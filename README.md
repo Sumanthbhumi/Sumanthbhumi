@@ -31,9 +31,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/bhumisumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/bhumisumanth" height="30" width="40" /></a></br></br>
-<a href="https://www.leetcode.com/https://leetcode.com/bhumisumanth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bhumisumanth/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/sumanth_redd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sumanth_redd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/bhumisumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/bhumisumanth" height="30" width="40" /></a></br></br>
+<a href="https://leetcode.com/bhumisumanth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bhumisumanth/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sumanth_redd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sumanth_redd" height="30" width="40" /></a>
 </p>
 
 
